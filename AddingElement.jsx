@@ -1,3 +1,4 @@
+/*It is like a to do list where when we click on the add button handleAdditem function called in function we create new array with setItem([]) spread operator used to include all items and input as well in new array*/ 
 import { useState } from "react";
 import "h8k-components";
 
